@@ -19,6 +19,9 @@ import {
     starbucks,
     tesla,
     shopify,
+    tpumps,
+    google,
+    chicostate,
     carrent,
     jobit,
     tripguide,
@@ -42,7 +45,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Developer",
       icon: web,
     },
     {
@@ -116,22 +119,22 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Google CSSIx Developer",
+      company_name: "Google",
+      icon: google,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "August 2018 - September 2018",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developing and deploying small personal websites using EC2 instance.",
+        "Collaborating within a team to develop a small workout.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Hands-on Lab Instructor",
+      company_name: "California State University, Chico",
+      icon: chicostate,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -155,16 +158,15 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Barista",
+      company_name: "Tpumps",
+      icon: tpumps,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2021 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Work with a team of up to five others to operate a bar in order to create drinks which customers order on the spot.",
+        "Communicate and operate efficiently with other teammates in order to maintain a steady output of drinks.",
+        "Fluidly swap between roles on bar in a manner that does not disrupt other coworker's workflow while maintaining the drink output.",
       ],
     },
   ];
