@@ -15,6 +15,7 @@ import {
     git,
     figma,
     docker,
+    vite,
     meta,
     starbucks,
     tesla,
@@ -22,6 +23,7 @@ import {
     tpumps,
     google,
     chicostate,
+    exertus,
     carrent,
     jobit,
     tripguide,
@@ -107,13 +109,17 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "figma",
-      icon: figma,
-    },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "vite",
+      icon: vite,
     },
   ];
   
@@ -126,8 +132,7 @@ import {
       date: "August 2018 - September 2018",
       points: [
         "Developing and deploying small personal websites using EC2 instance.",
-        "Collaborating within a team to develop a small workout.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Collaborating within a team to develop a workout app that allows other gym goers to connect, workout together, and keep track of their workouts.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
@@ -136,37 +141,35 @@ import {
       company_name: "California State University, Chico",
       icon: chicostate,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "August 2019 - December 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Collaborate with other instructors to build science lessons to present to fourth through fifth graders that visit the school on field trips.",
+        "Presented complex science topics in a concise way that is fun, interactive, and digestible for children.",
+        "Provided support for multiple presentations by sometimes giving multiple presentations on different topics in the event another instructor was struggling.",
       ],
     },
     {
       title: "Barista",
       company_name: "Tpumps",
       icon: tpumps,
-      iconBg: "#E6DEDD",
+      iconBg: "#383E56",
       date: "Jan 2021 - Present",
       points: [
         "Work with a team of up to five others to operate a bar in order to create drinks which customers order on the spot.",
         "Communicate and operate efficiently with other teammates in order to maintain a steady output of drinks.",
         "Fluidly swap between roles on bar in a manner that does not disrupt other coworker's workflow while maintaining the drink output.",
+      ],
+    },
+    {
+      title: "Licensed Life Insurance Agent",
+      company_name: "Exertus Financial Partners",
+      icon: exertus,
+      iconBg: "#E6DEDD",
+      date: "Mar 2023 - Present",
+      points: [
+        "Collaborating with a mentor and other experienced financial professionals to provide solutions for families in financial need.",
+        "Creating presentations of financial solutions that cater to each client's specific situation.",
+        "Building and leading a team so members become their own self-sustatining producer so that they can grow as I grow.",
       ],
     },
   ];
@@ -175,7 +178,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
+      name: "Kyle Reeves",
       designation: "CFO",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -200,7 +203,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Home Monitor App",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [

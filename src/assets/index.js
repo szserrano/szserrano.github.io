@@ -20,6 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import vite from "./tech/vite.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -28,6 +29,7 @@ import tesla from "./company/tesla.png";
 import tpumps from "./company/tpumps.png";
 import google from "./company/google.png"
 import chicostate from "./company/chicostate.png"
+import exertus from "./company/exertus.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -55,6 +57,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  vite,
   meta,
   shopify,
   starbucks,
@@ -62,6 +65,7 @@ export {
   tpumps,
   google,
   chicostate,
+  exertus,
   carrent,
   jobit,
   tripguide,
