@@ -32,6 +32,7 @@ import chicostate from "./company/chicostate.png"
 import exertus from "./company/exertus.png"
 
 import carrent from "./carrent.png";
+import capstone from "./capstone.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -67,6 +68,7 @@ export {
   chicostate,
   exertus,
   carrent,
+  capstone,
   jobit,
   tripguide,
 };
