@@ -30,6 +30,7 @@ import tpumps from "./company/tpumps.png";
 import google from "./company/google.png"
 import chicostate from "./company/chicostate.png"
 import exertus from "./company/exertus.png"
+import cisco from "./company/cisco.png"
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
@@ -67,6 +68,7 @@ export {
   google,
   chicostate,
   exertus,
+  cisco,
   carrent,
   capstone,
   jobit,
