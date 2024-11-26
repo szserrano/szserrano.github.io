@@ -172,6 +172,18 @@ import {
         "Building and leading a team so members become their own self-sustatining producer so that they can grow as I grow.",
       ],
     },
+    {
+      title: "Infra Automations Engineer",
+      company_name: "Cisco",
+      icon: exertus,
+      iconBg: "#E6DEDD",
+      date: "Nov 2023 - Feb 2024",
+      points: [
+        "Developed and optimized automation scripts using Ansible and Jenkins to ensure seamless provisioning and access management for newly deployed machines",
+        "Collaborated with cross-functional teams of 2-6 members to design, review, and refine automation frameworks, driving efficiency and scalability across deployments.",
+        "Facilitated collaboration between development, operations, and security teams to streamline automation processes, ensuring alignment on project goals and improving overall workflow efficiency across departments.",
+      ],
+    },
   ];
   
   const testimonials = [
