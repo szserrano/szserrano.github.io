@@ -33,7 +33,6 @@ import exertus from "./company/exertus.png"
 import cisco from "./company/cisco.png"
 
 import carrent from "./carrent.png";
-import capstone from "./capstone.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -70,7 +69,6 @@ export {
   exertus,
   cisco,
   carrent,
-  capstone,
   jobit,
   tripguide,
 };

@@ -25,7 +25,6 @@ import {
     chicostate,
     exertus,
     carrent,
-    capstone,
     jobit,
     tripguide,
     threejs,
@@ -206,23 +205,23 @@ import {
     {
       name: "Home Monitor App",
       description:
-        "Mobile application that allows users to monitor live and past statuses of entrance sensors within their house. Users within the same house can also message each other.",
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react-native",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "expo-cli",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "google-firebase",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: capstone,
-      source_code_link: "https://github.com/szserrano/HomeMonitorGit",
+      image: carrent,
+      source_code_link: "https://github.com/",
     },
     {
       name: "Job IT",
