@@ -28,6 +28,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    cisco,
   } from "../assets";
   
   export const navLinks = [
@@ -175,7 +176,7 @@ import {
     {
       title: "Infra Automations Engineer",
       company_name: "Cisco",
-      icon: exertus,
+      icon: cisco,
       iconBg: "#E6DEDD",
       date: "Nov 2023 - Feb 2024",
       points: [
