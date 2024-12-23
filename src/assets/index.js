@@ -27,12 +27,14 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import tpumps from "./company/tpumps.png";
-import google from "./company/google.png"
-import chicostate from "./company/chicostate.png"
-import exertus from "./company/exertus.png"
-import cisco from "./company/cisco.png"
+import google from "./company/google.png";
+import chicostate from "./company/chicostate.png";
+import exertus from "./company/exertus.png";
+import cisco from "./company/cisco.png";
+import outlier from "./company/outlierAI.jpg";
 
 import carrent from "./carrent.png";
+import capstone from "./capstone.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -69,6 +71,8 @@ export {
   exertus,
   cisco,
   carrent,
+  capstone,
+  outlier,
   jobit,
   tripguide,
 };

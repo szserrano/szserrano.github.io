@@ -29,6 +29,8 @@ import {
     tripguide,
     threejs,
     cisco,
+    capstone,
+    outlier,
   } from "../assets";
   
   export const navLinks = [
@@ -185,32 +187,44 @@ import {
         "Facilitated collaboration between development, operations, and security teams to streamline automation processes, ensuring alignment on project goals and improving overall workflow efficiency across departments.",
       ],
     },
+    {
+      title: "AI Model Trainer",
+      company_name: "OutlierAI",
+      icon: outlier,
+      iconBg: "#E6DEDD",
+      date: "Jun 2024 - Present",
+      points: [
+        "Evaluated and benchmarked response accuracy across AI models against human inputs, optimizing LLM performance for enhanced quality and relevance.",
+        "Streamlined documentation of up to six systematic QA processes daily, ensuring precision in model accuracy and continuous improvement in output consistency.",
+        "Spearheaded communiction between stakeholders to identify requirements and deliver optimal solutions.",
+      ],
+    },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "A great colleague to work with that makes understanding workflows and thought processes easier and concise.",
       name: "Kyle Reeves",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      designation: "Junior IT Specialist",
+      company: "LiCAP Technologies",
+      image: "https://media.licdn.com/dms/image/C5603AQGXLUsfhGsn5w/profile-displayphoto-shrink_200_200/0/1661552904119?e=2147483647&v=beta&t=Se1Nwg_RTpGXDPrXEsk8PCYh7nKpFayfXnsF9rRiqZw",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "I've never met leader who truly cares about their clients' and other associate's success and well-being like Sydney does.",
+      name: "Noel Antonio",
+      designation: "Executive Vice President",
+      company: "Exertus Financial Partners",
+      image: "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/119469332_3626874970658811_1326188488753360646_n.jpg?stp=c0.342.1365.1365a_dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=RV_cRkxhcY4Q7kNvgH82K5W&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aw6dWkkEY6-qzV4Zq25ZsQM&oh=00_AYBmpjuu4mAbEMY4OkwU9knQSPoKEiGyBOkhIPIXPaM5NQ&oe=679045AB",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "His reliability and focus to assist other team members as best as he can makes shifts more enjoyable and allows me to allocate more of my attention to my tasks.",
+      name: "Jacob Cayabyab",
+      designation: "Shift Lead",
+      company: "Tpumps",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQFCRqQUCY00hw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700173852768?e=1740614400&v=beta&t=yEQsPaLyI_1vQUgOpqRf-TGGY-1OEi7urhQpk9Qsdkg",
     },
   ];
   
@@ -221,20 +235,20 @@ import {
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "react native",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "expo CLI",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "restapi",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: capstone,
+      source_code_link: "https://github.com/szserrano/HomeMonitorGit",
     },
     {
       name: "Job IT",
