@@ -32,6 +32,7 @@ import {
     capstone,
     outlier,
     joey,
+    scoot,
   } from "../assets";
   
   export const navLinks = [
@@ -199,6 +200,17 @@ import {
         "Streamlined documentation of up to six systematic QA processes daily, ensuring precision in model accuracy and continuous improvement in output consistency.",
         "Spearheaded communiction between stakeholders to identify requirements and deliver optimal solutions.",
       ],
+    },
+    {
+      title: "Substitute Teacher",
+      company_name: "Scoot Education",
+      icon: scoot,
+      date: "Jan 2025 - Present",
+      points: [
+        "Adapted quickly to new environments and subject matter, stepping into diverse classrooms on short notice.",
+        "Communicated complex concepts clearly and effectively to diverse groups of students.",
+        "Maintained order and solved problems in real time by applying situational awareness and quick decision-making."
+      ]
     },
     {
       title: "Service Assistant",
