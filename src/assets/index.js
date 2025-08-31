@@ -32,6 +32,7 @@ import chicostate from "./company/chicostate.png";
 import exertus from "./company/exertus.png";
 import cisco from "./company/cisco.png";
 import outlier from "./company/outlierAI.jpg";
+import joey from "./company/joey.png"
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
@@ -73,6 +74,7 @@ export {
   carrent,
   capstone,
   outlier,
+  joey,
   jobit,
   tripguide,
 };

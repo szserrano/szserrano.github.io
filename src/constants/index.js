@@ -31,6 +31,7 @@ import {
     cisco,
     capstone,
     outlier,
+    joey,
   } from "../assets";
   
   export const navLinks = [
@@ -168,7 +169,7 @@ import {
       company_name: "Exertus Financial Partners",
       icon: exertus,
       iconBg: "#E6DEDD",
-      date: "Mar 2023 - Present",
+      date: "Mar 2023 - May 2025",
       points: [
         "Collaborating with a mentor and other experienced financial professionals to provide solutions for families in financial need.",
         "Creating presentations of financial solutions that cater to each client's specific situation.",
@@ -198,6 +199,28 @@ import {
         "Streamlined documentation of up to six systematic QA processes daily, ensuring precision in model accuracy and continuous improvement in output consistency.",
         "Spearheaded communiction between stakeholders to identify requirements and deliver optimal solutions.",
       ],
+    },
+    {
+      title: "Service Assistant",
+      company_name: "Joey Restaurant Valley Fair",
+      icon: joey,
+      date: "Apr 2025 - Jun 2025",
+      points: [
+        "Collaborated in high-pressure, cross-functional teams (servers, kitchen staff, managers) to deliver seamless service, refining communication and coordination skills.",
+        "Adapted quickly to shifting priorities and dynamic workloads, ensuring consistent performance and customer satisfaction.",
+        "Identified inefficiencies and streamlined processes (e.g., table turnover, task delegation) to improve overall workflow amidst large inflows of customers.",
+      ]
+    },
+    {
+      title: "Server",
+      company_name: "Joey Restaurant Valley Fair",
+      icon: joey,
+      date: "Jun 2025 - Present",
+      points: [
+        "Delivered tailored solutions for diverse customer needs by actively listening, troubleshooting in real time, and ensuring satisfaction. All while building a genuine connection with customers",
+        "Managed multiple high-priority tasks across a 6-table section simultaneously in a fast-paced environment, demonstrating the ability to stay organized and perform under pressure while maintaining accuracy.",
+        "Collaborated with teammates and leadership to coordinate service flow and resolve challenges and bottlenecks quickly.",
+      ]
     },
   ];
   
