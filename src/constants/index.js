@@ -244,7 +244,7 @@ import {
       name: "Kyle Reeves",
       designation: "Junior IT Specialist",
       company: "LiCAP Technologies",
-      image: "https://media.licdn.com/dms/image/C5603AQGXLUsfhGsn5w/profile-displayphoto-shrink_200_200/0/1661552904119?e=2147483647&v=beta&t=Se1Nwg_RTpGXDPrXEsk8PCYh7nKpFayfXnsF9rRiqZw",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQHGIC3XFMTV1Q/profile-displayphoto-crop_800_800/B56ZnUhw0UJsAI-/0/1760207244930?e=1770249600&v=beta&t=SihdaCisZmieHBow8XYtl0mui_b9j9f0xxQyWZkPivw",
     },
     {
       testimonial:
@@ -252,7 +252,7 @@ import {
       name: "Noel Antonio",
       designation: "Executive Vice President",
       company: "Exertus Financial Partners",
-      image: "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-1/119469332_3626874970658811_1326188488753360646_n.jpg?stp=c0.342.1365.1365a_dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=RV_cRkxhcY4Q7kNvgH82K5W&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aw6dWkkEY6-qzV4Zq25ZsQM&oh=00_AYBmpjuu4mAbEMY4OkwU9knQSPoKEiGyBOkhIPIXPaM5NQ&oe=679045AB",
+      image: "https://media.licdn.com/dms/image/v2/D5622AQG1YJsgjS7f0Q/feedshare-shrink_800/B56ZYqnjdkHoAk-/0/1744471735691?e=2147483647&v=beta&t=5YtcVzkSSgspMZ10Viexyh0M3kdavXGjgoPEM3t83qE",
     },
     {
       testimonial:
@@ -260,7 +260,7 @@ import {
       name: "Jacob Cayabyab",
       designation: "Shift Lead",
       company: "Tpumps",
-      image: "https://media.licdn.com/dms/image/v2/D5603AQFCRqQUCY00hw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700173852768?e=1740614400&v=beta&t=yEQsPaLyI_1vQUgOpqRf-TGGY-1OEi7urhQpk9Qsdkg",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQFCRqQUCY00hw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1700173852768?e=1770249600&v=beta&t=codAnpEjzVW7gTKI6VmdxvnXQ2w7H5gk8CS4fTMEe1c",
     },
   ];
   
