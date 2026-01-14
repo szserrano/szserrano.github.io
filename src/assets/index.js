@@ -32,6 +32,8 @@ import chicostate from "./company/chicostate.png";
 import exertus from "./company/exertus.png";
 import cisco from "./company/cisco.png";
 import outlier from "./company/outlierAI.jpg";
+import scoot from "./company/scoot.jpeg";
+import joey from "./company/joey.png";
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
@@ -75,6 +77,8 @@ export {
   capstone,
   outlier,
   tpumpsLeadManager,
+  scoot,
+  joey,
   jobit,
   tripguide,
 };
