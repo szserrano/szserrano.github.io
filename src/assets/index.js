@@ -37,7 +37,7 @@ import joey from "./company/joey.png";
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
-import tpumpsLeadManager from "./tpumpsLeadManager.png";
+import tpumpsLeadManager from "./TLScreenCombined.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
