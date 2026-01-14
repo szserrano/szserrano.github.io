@@ -35,6 +35,7 @@ import outlier from "./company/outlierAI.jpg";
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
+import tpumpsLeadManager from "./tpumpsLeadManager.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -73,6 +74,7 @@ export {
   carrent,
   capstone,
   outlier,
+  tpumpsLeadManager,
   jobit,
   tripguide,
 };
