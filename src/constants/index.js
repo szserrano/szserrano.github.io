@@ -279,13 +279,21 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "Gmail API",
+          name: "react native mail API",
           color: "pink-text-gradient",
         },
         {
           name: "firebase",
           color: "blue-text-gradient",
-        }
+        },
+        {
+          name: "expo CLI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "react native beautiful charts",
+          color: "pink-text-gradient",
+        },
       ],
       image: tpumpsLeadManager,
       source_code_link: "https://github.com/szserrano/Tpumps-Lead",
@@ -293,7 +301,7 @@ import {
     {
       name: "Home Monitor App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Mobile app that allows users to monitor live statuses of open/closed status of home entrances and chat with other members in the same home, allowing for a more secure and connected living environment.",
       tags: [
         {
           name: "react native",
@@ -306,6 +314,22 @@ import {
         {
           name: "restapi",
           color: "pink-text-gradient",
+        },
+        {
+          name: "ESP8266",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "webhooks",
+          color: "green-text-gradient",
+        },
+        {
+          name: "arduino",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "blue-text-gradient",
         },
       ],
       image: capstone,
