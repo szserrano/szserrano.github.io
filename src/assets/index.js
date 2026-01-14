@@ -37,6 +37,7 @@ import joey from "./company/joey.png";
 
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
+import tpumpsLeadManager from "./tpumpsLeadManager.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -75,6 +76,7 @@ export {
   carrent,
   capstone,
   outlier,
+  tpumpsLeadManager,
   scoot,
   joey,
   jobit,

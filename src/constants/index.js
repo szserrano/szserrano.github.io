@@ -31,6 +31,7 @@ import {
     cisco,
     capstone,
     outlier,
+    tpumpsLeadManager,
     joey,
     scoot,
   } from "../assets";
@@ -265,6 +266,31 @@ import {
   
   const projects = [
     {
+      name: "Tpumps-Lead Manager App",
+      description:
+        "A mobile app that allows shift managers to use AI to generate break times, count cash registers, send cash reports to upper management, and self-monitor performance metrics.",
+      tags: [
+        {
+          name: "react native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Google OCR API",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Gmail API",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "blue-text-gradient",
+        }
+      ],
+      image: tpumpsLeadManager,
+      source_code_link: "https://github.com/szserrano/Tpumps-Lead",
+    },
+    {
       name: "Home Monitor App",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
@@ -284,27 +310,6 @@ import {
       ],
       image: capstone,
       source_code_link: "https://github.com/szserrano/HomeMonitorGit",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
     },
     {
       name: "Trip Guide",
