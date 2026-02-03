@@ -324,7 +324,10 @@ import {
           name: "CI/CD Pipeline",
           color: "blue-text-gradient",
         },
-
+        {
+          name: "atlassian-confluence",
+          color: "green-text-gradient",
+        }
       ],
       image: lsbwebsite,
       source_code_link: "https://github.com/",
