@@ -33,7 +33,7 @@ const ServiceCard = ({ index, title, icon }) => {
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <motion.div variants={textVariant()} className='relative z-0'>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
@@ -45,7 +45,7 @@ const About = () => {
         I am a recent graduate from California State University, Chico with a Bachelor of Science in Computer Science. Throughout my studies, I have amassed a plethora of skills and knowledge in areas such as database management, artificial intelligence, software development, and more! Displayed below are a few of my skills which I have to offer. Let's collaborate to make your dreams a reality! 
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 relative z-0 flex  gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}

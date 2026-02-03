@@ -32,6 +32,7 @@ import {
     capstone,
     outlier,
     tpumpsLeadManager,
+    lsbwebsite,
     joey,
     scoot,
   } from "../assets";
@@ -42,8 +43,12 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "experience",
+      title: "Experience",
+    },
+    {
+      id: "works",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -299,6 +304,32 @@ import {
       source_code_link: "https://github.com/szserrano/Tpumps-Lead",
     },
     {
+      name: "Lucky Shot Billiards - Sunnyvale, CA Website",
+      description:
+        "A static website for a local billiards hall in Sunnyvale, CA for customers to find information about the business, tournaments, pricing, and other information.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Netlify",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "CI/CD Pipeline",
+          color: "blue-text-gradient",
+        },
+
+      ],
+      image: lsbwebsite,
+      source_code_link: "https://github.com/",
+    },
+    {
       name: "Home Monitor App",
       description:
         "Mobile app that allows users to monitor live statuses of open/closed status of home entrances and chat with other members in the same home, allowing for a more secure and connected living environment.",
@@ -334,27 +365,6 @@ import {
       ],
       image: capstone,
       source_code_link: "https://github.com/szserrano/HomeMonitorGit",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
     },
   ];
   

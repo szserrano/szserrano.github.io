@@ -38,6 +38,7 @@ import joey from "./company/joey.png";
 import carrent from "./carrent.png";
 import capstone from "./capstone.jpg";
 import tpumpsLeadManager from "./TLScreenCombined.png";
+import lsbwebsite from "./lsbWebsite.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -77,6 +78,7 @@ export {
   capstone,
   outlier,
   tpumpsLeadManager,
+  lsbwebsite,
   scoot,
   joey,
   jobit,
